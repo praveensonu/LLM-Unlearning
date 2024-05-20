@@ -15,22 +15,27 @@ This repository contains a comprehensive collection of papers on LLM-Unlearning.
 
 ## Unlearning methods
 
-## Relabeling-based fine-tuning:
+### Relabeling-based fine-tuning:
 
 - [Title](link-to-paper-1)
 - [Title](link-to-paper-2)
 
-## In-context Learning:
+### In-context Learning:
 
 - In-context Learning: []()
 
-## Gradient Ascent-based:
+### Gradient Ascent-based:
 
 - Gradient Ascent-based FT: []()
 - Fine-tuning with various objectives: []()
+
+### Model Editing techniques
 - Model editing techniques and constrained FT: []()
 
 - SISA training via an adapter: []()
+
+### Reward-reinforced model-based:
+
 - Reward-reinforced model fine-tuning: []()
 - Task vector-based PEFT via LoRA: []()
 ## Usage
