@@ -5,7 +5,7 @@ This repository contains a comprehensive collection of papers on LLM-Unlearning.
 
 ### Survey
 
-- A gentle introduction to Unlearning: [Ken Liu blog](https://ai.stanford.edu/~kzliu/blog/unlearning)
+- An introduction to Unlearning: [Ken Liu blog](https://ai.stanford.edu/~kzliu/blog/unlearning)
   
 - Rethinking Machine Unlearning for Large Language Models: [paper](https://arxiv.org/abs/2402.08787)
 
@@ -60,4 +60,9 @@ privacy risks in language models: [paper](https://arxiv.org/abs/2210.01504)
 - Editing models with task arithmetic: [paper](https://openreview.net/forum?id=6t0Kwf8-jrj)
 
 - Composing parameter-efficient modules with arithmetic operations: [paper](https://openreview.net/forum?id=5r3e27I9Gy&noteId=nnKn6sYNaV)
+
+
+## Unlearning in other domains:
+
+### Computer vision:
 
