@@ -17,16 +17,18 @@ This repository contains a comprehensive collection of papers on LLM-Unlearning.
 
 ### Relabeling-based fine-tuning:
 
-- [Title](link-to-paper-1)
-- [Title](link-to-paper-2)
+- Who’s harry potter? approximate unlearning in LLMs: [paper](https://arxiv.org/abs/2310.02238)
+- Knowledge sanitization of large language models: [paper](https://arxiv.org/abs/2309.11852)
 
 ### In-context Learning:
 
-- In-context Learning: []()
+- In-context unlearning- Language models as few shot unlearners: [paper](https://arxiv.org/abs/2310.07579)
 
 ### Gradient Ascent-based:
 
-- Gradient Ascent-based FT: []()
+- Knowledge unlearning for mitigating privacy risks in language modelsKnowledge unlearning for mitigating
+privacy risks in language models: [paper](https://arxiv.org/abs/2210.01504)
+- Large language model unlearning: [paper](https://arxiv.org/pdf/2310.10683)
 - Fine-tuning with various objectives: []()
 
 ### Model Editing techniques
@@ -38,6 +40,9 @@ This repository contains a comprehensive collection of papers on LLM-Unlearning.
 
 - Reward-reinforced model fine-tuning: []()
 - Task vector-based PEFT via LoRA: []()
+
+### KL Divergence based methods:
+-  A general machine unlearning framework based on knowledge gap alignment: [paper](https://arxiv.org/abs/2305.06535)
 ## Usage
 
 To access the papers, navigate to the desired category and click on the link to the paper you want to read.
