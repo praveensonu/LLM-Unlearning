@@ -6,11 +6,13 @@ This repository contains a comprehensive collection of papers on LLM-Unlearning.
 ### Survey
 
 - A gentle introduction to Unlearning: [Ken Liu blog](https://ai.stanford.edu/~kzliu/blog/unlearning)
+  
 - Rethinking Machine Unlearning for Large Language Models: [paper](https://arxiv.org/abs/2402.08787)
 
 ### Dataset
 
 - TOFU - A Task of Fictitious Unlearning for LLMs: [paper](https://arxiv.org/pdf/2401.06121)
+  
 - WMDP Benchmark: [paper](https://www.wmdp.ai/)
 
 ## Unlearning methods
@@ -18,7 +20,10 @@ This repository contains a comprehensive collection of papers on LLM-Unlearning.
 ### Relabeling-based fine-tuning:
 
 - Who’s harry potter? approximate unlearning in LLMs: [paper](https://arxiv.org/abs/2310.02238)
+  
 - Knowledge sanitization of large language models: [paper](https://arxiv.org/abs/2309.11852)
+  
+- TOFU - A Task of Fictitious Unlearning for LLMs: [paper](https://arxiv.org/pdf/2401.06121)
 
 ### In-context Learning:
 
@@ -26,37 +31,33 @@ This repository contains a comprehensive collection of papers on LLM-Unlearning.
 
 ### Gradient Ascent-based:
 
-- Knowledge unlearning for mitigating privacy risks in language modelsKnowledge unlearning for mitigating
+- Knowledge unlearning for mitigating privacy risks in language models Knowledge unlearning for mitigating
 privacy risks in language models: [paper](https://arxiv.org/abs/2210.01504)
+
 - Large language model unlearning: [paper](https://arxiv.org/pdf/2310.10683)
-- Fine-tuning with various objectives: []()
+  
 
-### Model Editing techniques
-- Model editing techniques and constrained FT: []()
+### Model Editing techniques:
+- Detecting and editing privacy neurons in pre-trained language models: [paper](https://aclanthology.org/2023.emnlp-main.174/)
 
-- SISA training via an adapter: []()
+- Can sensitive information be deleted from LLMs? objectives for defending against extraction attacks: [paper](https://openreview.net/pdf?id=7erlRDoaV8)
+  
+- Privacy adhering machine un-learning in NLP: [paper](https://aclanthology.org/2023.findings-ijcnlp.25/)
+  
+- Unlearning bias in language models by partitioning gradients: [paper](https://aclanthology.org/2023.findings-acl.375.pdf)
 
 ### Reward-reinforced model-based:
 
-- Reward-reinforced model fine-tuning: []()
-- Task vector-based PEFT via LoRA: []()
+- Controllable text generation with reinforced unlearning: [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b125999bde7e80910cbdbd323087df8f-Paper-Conference.pdf)
+  
 
-### KL Divergence based methods:
+### KL-divergence-based methods:
 -  A general machine unlearning framework based on knowledge gap alignment: [paper](https://arxiv.org/abs/2305.06535)
-## Usage
+   
+-  Unlearn what you want to forget: Efficient unlearning for LLMs: [paper](https://arxiv.org/abs/2310.20150)
 
-To access the papers, navigate to the desired category and click on the link to the paper you want to read.
+### Vector-based PEFT via LoRA:
+- Editing models with task arithmetic: [paper](https://openreview.net/forum?id=6t0Kwf8-jrj)
 
-## Contributing
+- Composing parameter-efficient modules with arithmetic operations: [paper](https://openreview.net/forum?id=5r3e27I9Gy&noteId=nnKn6sYNaV)
 
-If you would like to contribute to this repository, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or inquiries, please contact [Your Name](mailto:your-email@example.com).
