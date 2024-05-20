@@ -1,6 +1,6 @@
 # LLM-Unlearning
 
-This repository contains a comprehensive collection of papers on LLM-Unlearning.
+This repository contains a collection of papers on LLM-Unlearning.
 
 
 ### Survey
