@@ -1,34 +1,17 @@
 # LLM-Unlearning
 
-This repository contains a collection of research papers on various topics. Each paper is organized into its respective category for easy navigation.
+This repository contains a comprehensive collection of papers on LLM-Unlearning.
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Categories](#categories)
-  - [Category 1](#category-1)
-  - [Category 2](#category-2)
-  - [Category 3](#category-3)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+### Survey
 
-## Introduction
+- A gentle introduction to Unlearning: [Ken Liu blog](https://ai.stanford.edu/~kzliu/blog/unlearning)
+- [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)
 
-This repository is a comprehensive collection of research papers. The aim is to provide easy access to valuable research documents and promote knowledge sharing within the community.
+### Dataset
 
-## Categories
-
-### Category 1
-
-- Paper 1: [Title](link-to-paper-1)
-- Paper 2: [Title](link-to-paper-2)
-
-### Category 2
-
-- Paper 1: [Title](link-to-paper-1)
-- Paper 2: [Title](link-to-paper-2)
+- [TOFU - A Task of Fictitious Unlearning for LLMs ](https://arxiv.org/pdf/2401.06121)
+- [WMDP Benchmark](https://www.wmdp.ai/)
 
 ### Category 3
 
