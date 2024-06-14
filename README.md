@@ -31,6 +31,8 @@ This repository contains a collection of papers on LLM-Unlearning.
 
 ### Gradient Ascent-based:
 
+- Gradient Ascent vs Gradient Descent: [blog](https://www.baeldung.com/cs/gradient-descent-vs-ascent)
+
 - Knowledge unlearning for mitigating privacy risks in language models Knowledge unlearning for mitigating
 privacy risks in language models: [paper](https://arxiv.org/abs/2210.01504)
 
