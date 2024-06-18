@@ -27,6 +27,8 @@ This repository contains a collection of papers on LLM-Unlearning.
 
 ### In-context Learning:
 
+- Can we edit the factual knowledge in LLMs: [paper](https://openreview.net/pdf?id=hsjQHAM8MV)
+  
 - In-context unlearning- Language models as few shot unlearners: [paper](https://arxiv.org/abs/2310.07579)
 
 ### Gradient Ascent-based:
@@ -40,6 +42,8 @@ privacy risks in language models: [paper](https://arxiv.org/abs/2210.01504)
   
 
 ### Model Editing techniques:
+- Can we edit the factual knowledge in LLMs: [paper](https://openreview.net/pdf?id=hsjQHAM8MV)
+  
 - Detecting and editing privacy neurons in pre-trained language models: [paper](https://aclanthology.org/2023.emnlp-main.174/)
 
 - Can sensitive information be deleted from LLMs? objectives for defending against extraction attacks: [paper](https://openreview.net/pdf?id=7erlRDoaV8)
